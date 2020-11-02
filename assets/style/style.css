@@ -66,20 +66,20 @@ footer {
 }
 
 .font03 {
-    font-family: 'Titillium Web', sans-serif; 
-    font-size: 20px;
-    font-style: normal;
-    font-weight: normal;
+    font-family: 'Roboto', sans-serif; 
+    font-size: 28px;
+    font-style: italic;
+    font-weight: 900px;
     color:#2e2e2e;
     letter-spacing: 2px;
     text-transform: none;    
 }
 
 .font04 {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 20px;
     font-style: normal;
-    font-weight: 600px;
+    font-weight: 500px;
     color:#2e2e2e; 
     letter-spacing: 2px;
     text-transform: none;
