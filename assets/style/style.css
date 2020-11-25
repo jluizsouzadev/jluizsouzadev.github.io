@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: #ffffff url("../image/bg/mac01.jpg") no-repeat fixed center;
+    background: #ffffff url("../image/bg/mac01.jpg") no-repeat fixed center / cover;
 }
 
 .overlay {
