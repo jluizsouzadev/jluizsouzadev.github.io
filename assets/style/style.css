@@ -2,7 +2,10 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: #ffffff url("../image/bg/mac01.jpg") no-repeat fixed center;
+    background: #ffffff url("../image/bg/mac01.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
     background-size: cover;
 }
 
