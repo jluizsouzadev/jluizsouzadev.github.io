@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1000 1000"
+   enable-background="new 0 0 1000 1000"
+   xml:space="preserve"
+   id="svg8"
+   sodipodi:docname="icon_facebook_02.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><defs
+   id="defs12" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview10"
+   showgrid="false"
+   inkscape:zoom="0.85"
+   inkscape:cx="500"
+   inkscape:cy="500"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg8"
+   inkscape:document-rotation="0" />
+<metadata
+   id="metadata2"> Svg Vector Icons : http://www.onlinewebfonts.com/icon <rdf:RDF><cc:Work
+     rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata>
+<g
+   id="g6"
+   style="fill:#ffffff"><path
+     d="M990,193.8v612.4C990,907.7,907.7,990,806.2,990H686.3V610.4h127l19.2-148H686.3v-94.4c0-42.8,11.5-71.4,73.4-71.4l77.8-0.6V163.8c-13.4-1.9-60-5.7-113.6-5.7c-112.9,0-190.8,68.9-190.8,195.2v109.1H405.6v148h127.6V990H193.8C92.3,990,10,907.7,10,806.2V193.8C10,92.3,92.3,10,193.8,10h612.4C907.7,10,990,92.3,990,193.8z"
+     id="path4"
+     style="fill:#ffffff" /></g>
+</svg>

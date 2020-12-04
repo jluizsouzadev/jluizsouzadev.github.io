@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1000 1000"
+   enable-background="new 0 0 1000 1000"
+   xml:space="preserve"
+   id="svg10"
+   sodipodi:docname="icon_stackoverflow_02.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><defs
+   id="defs14" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview12"
+   showgrid="false"
+   inkscape:zoom="0.85"
+   inkscape:cx="500"
+   inkscape:cy="500"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg10" />
+<metadata
+   id="metadata2"> Svg Vector Icons : http://www.onlinewebfonts.com/icon <rdf:RDF><cc:Work
+     rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata>
+<g
+   id="g8"
+   style="fill:#ffffff"><g
+     transform="matrix(1 0 0 -1 0 1920)"
+     id="g6"
+     style="fill:#ffffff"><path
+       d="M112.1,930c-28.3,0-52.4,9.9-72.3,29.8c-19.9,19.9-29.8,44-29.8,72.3v775.8c0,28.3,9.9,52.4,29.8,72.3c19.9,19.9,44,29.8,72.3,29.8h775.8c28.3,0,52.4-9.9,72.3-29.8c19.9-19.9,29.8-44,29.8-72.3v-775.8c0-28.3-9.9-52.4-29.8-72.3c-19.9-19.9-44-29.8-72.3-29.8H112.1z M761.7,1499.2l55.9,41.6l-207,278.5l-55.9-41.6L761.7,1499.2z M705,1433.1l44.5,53.1l-266.6,222.1l-44.5-53.1L705,1433.1z M665.8,1354.3l29.4,62.9l-314.8,146.6l-29-62.9L665.8,1354.3z M645.8,1266.9l14.3,67.8l-339.3,71.5l-14.3-68.2L645.8,1266.9z M169.3,1048.4h620.7v253.2h-49v-204.2H218.3v204.2h-49V1048.4z M299.5,1180.3h347.1v69.4H299.5V1180.3z"
+       id="path4"
+       style="fill:#ffffff" /></g></g>
+</svg>
