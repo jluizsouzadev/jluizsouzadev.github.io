@@ -24,8 +24,7 @@ header {
 .avatar {
     margin: 20px 15px 20px 15px;
     height: auto;
-    /*width: 170px;*/
-    width: 60%;
+    width: 170px;
     border-radius: 50%;
     border: 6px solid #750099;
     background-color: #ffffff;
@@ -102,7 +101,7 @@ footer {
 
 @media only screen and (min-width: 600px) {
     .avatar { 
-        width: 15%;
+        width: 270px;
         border: 10px solid #750099;
     }
     .font01 { font-size: 40px; }
